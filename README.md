@@ -1,4 +1,4 @@
-# Student-Performance-Factor
+
 # 🎓 Student Exam Score Prediction
 
 This project is a machine learning pipeline built to predict **student exam scores** based on various academic, behavioral, and socio-economic features. It evaluates and compares multiple regression models to understand which factors most strongly influence academic performance.
